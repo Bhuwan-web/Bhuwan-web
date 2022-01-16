@@ -6,7 +6,7 @@
 - 👀 I’m interested in Full Stack web development
 - 🌱 I’m currently learning Django, Rest and React
 - 💞️ I’m looking to collaborate on Django, Rest and React
-- 📫 How to reach me email:<a href="mailto:ricky.pantha@gmail.com">Bhuwan Panta</a>ricky.pantha@gmail.com
+- 📫 How to reach me email:<a href="mailto:ricky.pantha@gmail.com">Bhuwan Panta</a>
 
 <!---
 Bhuwan-web/Bhuwan-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

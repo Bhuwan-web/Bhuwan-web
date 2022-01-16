@@ -3,9 +3,9 @@
 
 
 - 👋 Hi, I’m @Bhuwan-web
-- 👀 I’m interested in Front End web development
-- 🌱 I’m currently learning Reast.js framework
-- 💞️ I’m looking to collaborate on Basic react Projects
+- 👀 I’m interested in Full Stack web development
+- 🌱 I’m currently learning Django, Rest and React
+- 💞️ I’m looking to collaborate on Django, Rest and React
 - 📫 How to reach me email:ricky.pantha@gmail.com
 
 <!---
